@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+
+AI Threat Scoring Engine/threat_history.db

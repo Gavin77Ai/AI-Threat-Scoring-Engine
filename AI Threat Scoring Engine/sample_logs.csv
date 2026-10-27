@@ -1,0 +1,9 @@
+event_id,unusual_country,unknown_ip,failed_attempts,unusual_time,success_after_failures
+AUTH-20261013-001,false,false,0,false,false
+AUTH-20261013-002,false,true,8,false,false
+AUTH-20261013-003,true,false,2,true,false
+AUTH-20261013-004,false,false,4,true,true
+AUTH-20261013-005,true,true,1,false,false
+AUTH-20261013-006,false,true,3,true,true
+AUTH-20261013-007,true,true,10,true,true
+AUTH-20261013-008,false,false,0,true,false
