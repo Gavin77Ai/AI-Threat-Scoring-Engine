@@ -51,9 +51,7 @@ Git and GitHub - Version control and project hosting
 
 The rule-based scoring system evaluates several authentication indicators:
 
-Detection Rule
-
-Points
+Detection Rule Points
 
 Unusual country: +25
 
